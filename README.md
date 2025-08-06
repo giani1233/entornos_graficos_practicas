@@ -1,1 +1,0 @@
-# entornos_graficos_practicas

@@ -36,3 +36,6 @@ Thumbs.db
 # Node.js (si lo usás)
 node_modules/
 dist/
+
+#
+*.htm

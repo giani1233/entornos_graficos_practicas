@@ -1,0 +1,38 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+*~
+
+# Archivos de respaldo
+*.bak
+*.old
+
+# Carpetas comunes de IDEs y editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Imágenes (todas las comunes)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.webp
+*.bmp
+*.ico
+
+# Archivos ZIP u otros paquetes
+*.zip
+*.rar
+*.tar
+*.gz
+
+# Node.js (si lo usás)
+node_modules/
+dist/

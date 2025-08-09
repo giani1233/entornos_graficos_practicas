@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+        Formulario con campo requerido:
+    </h1>
+    <form>
+        <label for="nombre">
+            Nombre:
+        </label>
+        <input type="text" id="nombre" name="nombre" required>
+        <button type="submit">
+            Enviar
+        </button>
+    </form>
+    <h1>
+        Formulario con email requerido:
+    </h1>
+    <form>
+        <label for="email">
+            Email:
+        </label>
+        <input type="email" id="email" name="email" required>
+        <button type="submit">
+            Enviar
+        </button>
+    </form>
+    <h1>
+        Formulario con fecha requerida:
+    </h1>
+    <form>
+        <label for="fecha">
+            Fecha:
+        </label>
+        <input type="date" id="fecha" name="fecha" required>
+        <button type="submit">
+            Enviar
+        </button>
+    </form>
+    <h1>
+        Formulario con color requerido:
+    </h1>
+    <form>
+        <label for="color">
+            Color:
+        </label>
+        <input type="color" id="color" name="color" required>
+        <button type="submit">
+            Enviar
+        </button>
+    </form>
+    <h1>
+        Formulario con número con mínimo y máximo requerido:
+    </h1>
+    <form>
+        <label for="numero">
+            Numero:
+        </label>
+        <input type="number" id="numero" name="numero" min="1" max="7" required>
+        <button type="submit">
+            Enviar
+        </button>
+    </form>
+</body>
+</html>

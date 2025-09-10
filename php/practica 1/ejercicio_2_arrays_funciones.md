@@ -1,0 +1,6 @@
+
+    a- Salida: bar1
+
+    b- Salida: 5942
+
+    c- Salida: 

@@ -1,0 +1,2 @@
+
+    Ambos códigos son equivalentes

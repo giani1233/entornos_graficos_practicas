@@ -1,5 +1,5 @@
 <?php 
-    $destinatario = "example@gmail.com";
+    $destinatario = "gianimesapelle04@gmail.com";
     $asunto = "Mail de prueba";
     $cuerpo =   '
                 <html>
@@ -20,7 +20,7 @@
                 ';
     $headers = "MIME-Version: 1.0\r\n";
     $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
-    $headers .= "From: NN <example@gmail.com>\r\n";
+    $headers .= "From: NN <gianimesapelle04@gmail.com>\r\n";
 
     mail($destinatario,$asunto,$cuerpo,$headers)
 ?>

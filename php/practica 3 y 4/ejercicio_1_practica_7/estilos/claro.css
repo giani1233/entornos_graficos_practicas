@@ -1,0 +1,15 @@
+body {
+    background-color: #f9f9f9;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #336699;
+}
+#submit {
+    background-color: #336699;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
